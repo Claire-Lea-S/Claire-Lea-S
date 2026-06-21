@@ -16,7 +16,7 @@ A self-running "passive incubator": a system that ideates, builds, and ships sma
 ### 🔒 What's *not* public (proprietary)
 - **Optimise Procure** (1st startup) — the procurement **auction-theory / mechanism-design algorithm** is proprietary *(the public auction-theory-simulator above is a teaching demo of the same ideas)*
 - **Certum.ai** (ESG startup) — regression + ML platform predicting sustainability scores for **financial institutions**; lives in a separate private company GitHub
-- **BCG** — all work is proprietary and lives on BCG's GitHub, incl. a **KYC onboarding agent** (built with a leading AI partner), an **enterprise platform for organizational redesign**, numerous **custom agents, skills, and context/workflow systems**, and **internal AI trainings I designed**
+- **BCG** — all work is proprietary and lives on BCG's GitHub, incl. a **KYC onboarding agent** (built with a leading AI partner), an **enterprise platform for organizational redesign**, numerous **custom agents, skills, and context/workflow systems**, and **internal AI trainings I designed** — plus the odd fun build, like a route optimizer for a BCG running dinner
 
 ### 🌐 Find me
 - Website — https://claire-lea-s.github.io/personal-statistics/
